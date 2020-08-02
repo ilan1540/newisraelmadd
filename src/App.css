@@ -1,0 +1,69 @@
+.navbar a {
+  color: #efb814;
+  font-size: larger;
+  font-weight: bold;
+}
+
+nav h1 {
+  color: white;
+  margin-left: auto;
+  padding-right: 25px;
+}
+/*
+.koteret {
+  text-align: center;
+  width: 80%;
+  margin-top: 15px;
+  border: 2px solid rebeccapurple;
+  border-radius: 8px;
+  background-color: seagreen;
+  color: #881554;
+}
+*/
+.table {
+  width: 70%;
+  margin-top: 25px;
+  text-align: right;
+  background-color: rgb(164, 189, 140);
+
+  border-radius: 8px;
+  font-weight: 700;
+}
+
+.card-header {
+  text-align: center;
+  background-color: rgb(29, 138, 76);
+  font-size: larger;
+  font-weight: 700;
+}
+
+.list-group-item {
+  padding: 0;
+  border: none;
+}
+
+.card1 {
+  width: 22rem;
+  margin-top: 5px;
+  margin: auto;
+
+  background-color: rgb(164, 189, 140);
+  border: 2px solid royalblue;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+ul {
+  list-style-type: none;
+  text-align: right;
+}
+
+h5 {
+  text-align: right;
+  margin: 2px;
+}
+
+.input-group-text {
+  border: none;
+  font-weight: bold;
+}

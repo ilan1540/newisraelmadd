@@ -1,0 +1,11 @@
+export const GET_LAST_MADD = 'GET_LAST_MADD';
+export const SDAROT_CLALI = 'SDAROT_CLALI';
+export const SDAROT_BNIYA = 'SDAROT_BNIYA';
+export const FILTER_DATA = 'FILTER_DATA';
+export const CLEAT_FILTER = 'CLEAT_FILTER';
+
+export const FETCH_MADD_REQUEST = 'FETCH_MADD_REQUEST';
+
+export const FETCH_MADD_SUCCESS = 'FETCH_MADD_SUCCESS';
+
+export const FETCH_MADD_FAILURE = 'FETCH_MADD_FAILURE';
